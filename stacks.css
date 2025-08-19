@@ -1,0 +1,43 @@
+.satcks {
+    margin-top: 20px;
+}
+
+.satcks h3 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+.stacks ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+
+
+}
+.stacks ul li {
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 7px 20px;
+    margin-top: 10px ;
+}
+.html{
+background-color: aquamarine;
+color: white;
+font-weight: 600;
+
+}
+.css{
+    background-color: pink;
+    color: white;
+    font-weight:600 ;
+}
+.windows{
+    background-color: palevioletred;
+    color: white;
+
+font-weight: 600;
+}
+.vso{
+    background-color: palevioletred;
+    color: white;
+    font-weight: 600;
+}
