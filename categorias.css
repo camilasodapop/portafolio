@@ -1,0 +1,25 @@
+.categorias{  
+    margin-top: 20px;
+}
+
+.categorias h2 {  
+    text-align: left;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.categorias h1 {  
+    text-align: left;
+    margin-top: 20px;
+}
+
+.categorias ul {  
+    margin-top: 10px;
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+.categorias p{  
+    margin-top: 10px;
+}
